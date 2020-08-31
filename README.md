@@ -1,0 +1,2 @@
+# CovidUpdates
+CovidUpdates API JS
